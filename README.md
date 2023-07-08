@@ -1,6 +1,6 @@
 # Real-Estate-Price Modeling through Multi-linear Regression
 Finding out the analysis process of determining house sales from various variables and predictors through Multi Linear Regression
-# 1. Business Understanding
+# Business Understanding
 A brief overview of the business focusing on conducting regression analysis for house sales.
 It aims to explain the importance of regression analysis in understanding the factors that influence house prices and predicting future trends like waterfront and views.
 Highlighting the value that the business brings to clients by providing data-driven insights and accurate predictions.
@@ -37,7 +37,8 @@ Training the data
 Modelling and Analysis
 Conclusions and Recommendations
 
-# 2. Data Understanding
+# 
+Data Understanding
 This project uses the King County House Sales dataset, which can be found in kc_house_data.csv in the data folder in this git respiratory . The description of the column names can be found in column_names.md in the same folder. As with most real world data sets, the column names are not perfectly described so will figure out how to access this as we continue
 
 Lets ignore some or all of the following features:
